@@ -1,0 +1,5 @@
+.metadata
+deep-learning-from-scratch/
+/.*
+!.gitignore
+

@@ -1,0 +1,1 @@
+print ("YEAR" + str(2000))
